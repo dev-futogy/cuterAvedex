@@ -18,5 +18,10 @@ namespace cuterAvedex
             get;
             set;
         }
+        static public byte CountClassifiers
+        {
+            get;
+            set;
+        }
     }
 }
