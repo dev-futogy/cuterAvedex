@@ -47,6 +47,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="classifier.cs" />
     <Compile Include="FormCreateProject.cs">
       <SubType>Form</SubType>
     </Compile>
